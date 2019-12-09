@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rn_blogapp</string>
+    <string name="facebook_app_id">2052299194871046</string>
+    <string name="fb_login_protocol_scheme">fb2052299194871046</string>
+</resources>
